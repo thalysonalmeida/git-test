@@ -1,22 +1,5 @@
 git
 teste 1
-<<<<<<< HEAD
-<<<<<<< HEAD
 teste 2
 teste 3
 teste 4
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-teste 2
->>>>>>> 20fbbf3 (teste2)
-=======
-teste 2
-teste 3
->>>>>>> efadc30 (teste 3)
-=======
-teste 5
->>>>>>> f44090b (teste-5)
-=======
-teste 5
->>>>>>> f44090b9517d655c94cb79248b7185cfac1626d6
